@@ -1,0 +1,18 @@
+﻿1. Class is the collection of datatypes and methods.
+These are called class members.
+2.These are of two types static members and non static members
+3.static members of a clas can be accesssed using class name.
+4.non static (instance) members of a class can be accessed using
+object.
+
+NOTE 1 : static fields can be accessed using classname.
+NOTE 2 : non static fields (instance fields) can be accessed usin object
+
+In order to provide security for the fileds we use private accessmodifer.
+to access them we use properies
+
+Properties must follow Pascal Case Naming convention and 
+
+
+fileds mulst follow camel Case Naming convention(variables)
+

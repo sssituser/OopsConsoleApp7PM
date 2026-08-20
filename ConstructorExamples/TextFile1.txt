@@ -1,0 +1,25 @@
+﻿Constructor :
+1.It is a special method.
+2.It will not have return type.
+3.It's name and class name both are same.
+4.Constructor will be invoked when the object created.
+5.Constructor can be used to construct the object.
+6.Constructors are two types.
+	static constructor
+		static consturctor is a constructor which is declared with static keyword
+		It will be invoked only for the fist time
+	instance construcot
+		The constructor which is not declared with static keyword.
+		It will be invoked  every object create since it is a instace constrctor
+		It is of different types
+		1.Default Constructor(Constructor with out parameter)
+		2.Constructor with parmeters
+		3.Copy Constructor.
+
+
+
+
+
+Accessmodifer returntype MethodName(parmeters){
+	return
+}
