@@ -40,5 +40,11 @@ namespace ConstructorExamples
         {
             Console.WriteLine("Hi Iam Static Constructor");
         }
+
+
+        ~Student()
+        {
+            Console.WriteLine("Object Destroyed");
+        }
     }
 }

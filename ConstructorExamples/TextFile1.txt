@@ -23,3 +23,7 @@
 Accessmodifer returntype MethodName(parmeters){
 	return
 }
+
+Destructor : It is a special method,
+Its name and class name are same with tilte operator
+It can be invoked after completing the functionalities of the objects.
