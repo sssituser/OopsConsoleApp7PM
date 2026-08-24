@@ -1,0 +1,7 @@
+﻿Operator overloading :
+
+Assiging a new property to the Operator is called Operator overloading.
+In order to overload the operator we need operator keyword before the 
+operator.
+
+Example:  +   1+2 => 3    1.2+4.5=> 5.7   "abc"+"def"=>abcdef

@@ -3,4 +3,5 @@
   <Project Path="DestructorExample/DestructorExample.csproj" Id="686d347c-94af-4880-974f-dfe97d203ebb" />
   <Project Path="Inheritance/Inheritance.csproj" Id="b8413042-10b9-4c35-a4b5-3c260acbdd37" />
   <Project Path="OopsConsoleApp7PM/OopsConsoleApp7PM.csproj" />
+  <Project Path="Polymorphism/Polymorphism.csproj" Id="8cd0b39f-b849-4db8-b455-3a1d3861a798" />
 </Solution>
