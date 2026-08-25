@@ -5,3 +5,18 @@ In order to overload the operator we need operator keyword before the
 operator.
 
 Example:  +   1+2 => 3    1.2+4.5=> 5.7   "abc"+"def"=>abcdef
+
+
+Runtime Polymorphism (Dynamic binding or late binding)
+
+The polymorhism which can be achieved during the execution of the program.
+
+Method Overriding Example for Runtime Polymorphism.
+
+What is Method Overriding ?
+
+Defining a method with same name and same parmeter in the Parent class 
+and in the child class.
+
+Parent class method can be declared with virtual keyword, and  child class method
+can be declared with override keyword.

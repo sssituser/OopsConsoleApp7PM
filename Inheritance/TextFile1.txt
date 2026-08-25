@@ -1,0 +1,3 @@
+﻿Multilevel Inheritance :
+
+Deriving a child for derived class.
