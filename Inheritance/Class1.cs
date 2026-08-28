@@ -10,11 +10,13 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            Calcy cal = new Calcy();
-            cal.Sum(4, 5);
-            cal.Sub(6, 7);
-            cal.Mul(8, 9);
-           
+            string s = "suguna";
+            string c="b.tech";
+            string branch = "cse";
+            string cgpa = "75";
+            string rollnumer = "22";
+            string id = "094";
+            Console.WriteLine($"{s}\n{c}\n{branch}\n{cgpa}\n{rollnumer}\n{id}");
         }
     }
 }

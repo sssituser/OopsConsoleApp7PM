@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8CD0B39F-B849-4DB8-B455-3A1D3861A798}</ProjectGuid>
+    <ProjectGuid>{797C5FA0-5C8F-41CD-802C-DF1382E961B0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Polymorphism</RootNamespace>
-    <AssemblyName>Polymorphism</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,11 +33,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Polymorphism.Class4</StartupObject>
+    <StartupObject>ConsoleApp1.Class3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MathsSystem">
+      <HintPath>..\MathsSystem\bin\Debug\MathsSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="SuhanaSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SuhanaSystem\bin\Debug\SuhanaSystem.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,11 +57,6 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
-    <Compile Include="Class4.cs" />
-    <Compile Include="Class5.cs" />
-    <Compile Include="Class6.cs" />
-    <Compile Include="Class7.cs" />
-    <Compile Include="Mover.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

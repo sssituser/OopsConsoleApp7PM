@@ -1,7 +1,10 @@
 <Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="797c5fa0-5c8f-41cd-802c-df1382e961b0" />
   <Project Path="ConstructorExamples/ConstructorExamples.csproj" Id="82b6c1c4-246c-44c9-9800-fe44bcdc0999" />
   <Project Path="DestructorExample/DestructorExample.csproj" Id="686d347c-94af-4880-974f-dfe97d203ebb" />
   <Project Path="Inheritance/Inheritance.csproj" Id="b8413042-10b9-4c35-a4b5-3c260acbdd37" />
+  <Project Path="MathsSystem/MathsSystem.csproj" Id="9009a0ee-8e43-4768-9f13-12305df97ec1" />
   <Project Path="OopsConsoleApp7PM/OopsConsoleApp7PM.csproj" />
   <Project Path="Polymorphism/Polymorphism.csproj" Id="8cd0b39f-b849-4db8-b455-3a1d3861a798" />
+  <Project Path="SuhanaSystem/SuhanaSystem.csproj" Id="5eb92213-2f64-41b8-938f-c8f73f62ca20" />
 </Solution>

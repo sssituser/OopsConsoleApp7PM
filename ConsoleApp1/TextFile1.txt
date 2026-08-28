@@ -1,0 +1,33 @@
+﻿Assemblies are the predefined libs
+These are of two types
+
+1.Public Assemblies : These Assemblies are also known as .dll(Dynamic Link Libs) or Predefined Namespaces
+or Predefined libs.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+2.Private Assemblies : The Assemblies which are developed by the developer are called Private Assemblies.
+
+In  order to Crete Private Assemblies , needs to choose the project class lib
+
+Steps Create Private Assembly and Steps to Consume the Assembiles
+
+Steps Create Private Assembly
+
+	1.Create a new project
+	2.Select ClassLib
+	3.Add public clss to the Lib
+	4.Add Methods to the class
+	5.Build the solution then the .dll file is created(copy the location to consume)
+
+Steps Consume the Private Assemblies
+
+	1.Open the Application
+	2.Rt Client Solution Explorer
+	3.Select Refereces and Rt Click on It
+	4.Open the Copied location of .dll file

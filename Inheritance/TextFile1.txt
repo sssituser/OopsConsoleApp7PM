@@ -1,3 +1,19 @@
 ﻿Multilevel Inheritance :
 
 Deriving a child for derived class.
+
+
+Sealed class is class which can't be inherited.
+
+
+Derving a single child from two or more base classes is called multiple inheritance.
+In C# we can't achieve multiple inheritance by taking multiple class.
+
+In order to achieve multiple inheritance we need use interface.
+
+
+What is an Interface ?
+It is a set of undefined(abstract methods) methods.
+we can't create object for the interface.
+Interface must be inherited
+The definitions undefined methods must be defined in the child class.
