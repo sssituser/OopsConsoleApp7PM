@@ -1,0 +1,57 @@
+﻿Error is a problem in the  code which will not all the program to 
+compile or Exucted
+
+The error which will prevent code to  compile are called 
+1.Compiation Error 
+	Compiler Error will be denoted with a number.
+	Solution : Provide the right syntax
+
+
+
+2. The Errors which can occur during execution of the program are called
+   Runtime Errors.
+
+   Runtime Errors are also called as Exceptions.
+
+   Exceptions can cause abnormal termination of the application.
+
+   Exception Handling : In order to handle the exceptions we need use
+   try  catch throw finally clauses.
+   try :It is a block in which we write the risky code(The code in which we expect an exception).
+		 It will try to execute the code, if it is not it creates exception objects and throws exception
+		 objects to the suitable catch block internally.
+
+		 Hence it will abnormal termination of the application.
+		 try block can't be written ideally.
+		 try block must be followed with either catch or finally blocks.
+   catch : It is a block which can catch exception objects which are raised in the try block 
+		   internally or extenally.
+		   Catch blocks are of two types.
+				1. Individual Catch block
+						It is block which can handle only one exception
+						Example : FormatException, DivideByZeroException,SqlException,
+								  StackOverFlowExcetion etc.
+
+				2. Common Catch blcok :
+						It is a block which can catch all the exceptions which are raised in the
+						try block.
+						A catch block with out any class or 
+						A catch block with Exception class is called common catch block
+	Throw is a statement which can be used to throw the exception objects Excteranlly to the suitable catch
+	block along with message.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
