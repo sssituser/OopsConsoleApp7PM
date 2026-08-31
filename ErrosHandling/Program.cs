@@ -38,6 +38,10 @@ namespace ErrosHandling
                 {
                     Console.WriteLine($"{ex}==>{ex.Message}");
                 }
+                finally
+                {
+                    Console.WriteLine("Thanku visit Again");
+                }
                 
             }
         }

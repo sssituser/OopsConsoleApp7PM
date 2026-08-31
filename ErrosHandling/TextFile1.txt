@@ -40,6 +40,26 @@ The error which will prevent code to  compile are called
 	Throw is a statement which can be used to throw the exception objects Excteranlly to the suitable catch
 	block along with message.
 
+	finally : In order to get the common messages , In order to set intial values, In order to close the database connections
+	we use finally block.
+
+	Finally block can be executed after successfull execution try blcok,
+	or 
+	Finally block can be execute even after execting catch block
+
+	Custom Exception : It is an Exception which can be created by the developer, and can be used.
+	It is also User Defined Exception. or Custom Exception.
+
+
+	Steps To Create CustomException:
+		1.Create a class, Inherit Exception Parent class, Then class will be converted into a Exception class
+		2. Create a Constructor  with,without paramter and with Parameter is with message string variable,
+		   it should be sent base class construcor using base keyword
+
+	steps To Consume the Exception:
+		1.Create an Application
+		2.Write the Risky in try block
+		3.Throw The Custom Exception object using Throw Keyword
 
 
 
