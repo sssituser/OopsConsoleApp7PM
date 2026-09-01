@@ -1,0 +1,13 @@
+1.Create a new Project With Class Lib
+							----------
+2.Create a class and Add Methods in side the class with public accessmodifer.
+3.Goto Build menu click on build solution then .dll will be create in
+bin/Debug
+4.Then copy the path or .dll file
+
+======================================Cosuming the Class Lib===============
+
+1.Open Appliation 
+2.Right click on the referenes and Browse the .dll location
+3.Add the to reference
+3.Consume In the application.
