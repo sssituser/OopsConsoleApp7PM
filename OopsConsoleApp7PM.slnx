@@ -4,6 +4,7 @@
   </Folder>
   <Project Path="ClassLibrarySystem/ClassLibrarySystem.csproj" Id="cb866698-d61c-4261-81be-9799db51947d" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="797c5fa0-5c8f-41cd-802c-df1382e961b0" />
+  <Project Path="ConsoleAppGenerics/ConsoleAppGenerics.csproj" Id="61068564-e66b-4f20-a256-afa12f3cd6da" />
   <Project Path="ConstructorExamples/ConstructorExamples.csproj" Id="82b6c1c4-246c-44c9-9800-fe44bcdc0999" />
   <Project Path="Delegates/Delegates.csproj" Id="fd60e867-41a2-4780-a567-2316334312fc" />
   <Project Path="DestructorExample/DestructorExample.csproj" Id="686d347c-94af-4880-974f-dfe97d203ebb" />

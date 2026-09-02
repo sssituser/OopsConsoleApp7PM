@@ -1,0 +1,4 @@
+﻿
+
+Generic is a template which can be used to change the data type during the execution of the application
+is called Generic.

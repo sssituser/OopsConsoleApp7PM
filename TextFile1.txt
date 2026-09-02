@@ -11,3 +11,14 @@ bin/Debug
 2.Right click on the referenes and Browse the .dll location
 3.Add the to reference
 3.Consume In the application.
+=============================================================
+Abstract class : It is class which is declared with abastract keyword so that we can't create object for the
+abstract class. Abstract class must be inherited.
+Abstract class can hold both abstract methdos and non abstract methods.
+
+Abstract Method : It is a method which can be declcared with abstract keyword , and  can't be defined method.
+just we provide signature of the method
+i.e. Abstract methods will not have any definition.
+The definition of undefined methods can be defined in the child class.
+
+Using Abstract class we can achive abstraction.
