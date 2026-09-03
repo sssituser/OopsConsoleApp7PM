@@ -3,6 +3,7 @@
     <File Path="TextFile1.txt" />
   </Folder>
   <Project Path="ClassLibrarySystem/ClassLibrarySystem.csproj" Id="cb866698-d61c-4261-81be-9799db51947d" />
+  <Project Path="CollectionFramework/CollectionFramework.csproj" Id="f01bbd64-776b-47d6-a711-2b1dfe2fa98c" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="797c5fa0-5c8f-41cd-802c-df1382e961b0" />
   <Project Path="ConsoleAppGenerics/ConsoleAppGenerics.csproj" Id="61068564-e66b-4f20-a256-afa12f3cd6da" />
   <Project Path="ConstructorExamples/ConstructorExamples.csproj" Id="82b6c1c4-246c-44c9-9800-fe44bcdc0999" />
